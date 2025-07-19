@@ -1,0 +1,37 @@
+{
+  "name": "github-report-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "GitHub Daily Report to WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "github",
+    "whatsapp",
+    "report",
+    "bot"
+  ],
+  "author": "Nighan2 Labs",
+  "license": "ISC",
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "axios": "^1.6.2",
+    "date-fns": "^2.30.0",
+    "next": "^14.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.0.14",
+    "@types/react": "19.1.8",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "typescript": "5.8.3"
+  }
+}
