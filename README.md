@@ -112,4 +112,4 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Created by Nighan2 Labs
-- Built with Next.js and Tailwind CSS
+- Built with Next.js and Tailwind CSS# Force update
